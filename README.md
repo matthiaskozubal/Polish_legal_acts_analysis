@@ -11,3 +11,4 @@ Analysis of the texts of polish legal acts, as well as the lower house of Parlia
 * Legal acts analysis examples
   - [https://towardsdatascience.com/using-nlp-to-understand-laws-95278624ae5](https://towardsdatascience.com/using-nlp-to-understand-laws-95278624ae5)
   - [https://medium.com/@ODSC/using-nlp-and-ml-to-analyze-legislative-burdens-upon-businesses-e5cc106b85b0](https://medium.com/@ODSC/using-nlp-and-ml-to-analyze-legislative-burdens-upon-businesses-e5cc106b85b0)
+  - [https://www.kaggle.com/omarrouis/cdp-cities-text-sentiment-analysis](https://www.kaggle.com/omarrouis/cdp-cities-text-sentiment-analysis)
