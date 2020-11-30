@@ -6,6 +6,7 @@ Analysis of the texts of polish legal acts, as well as the lower house of Parlia
 * NLP analysis
 
 # Varia
+* [http://isap.sejm.gov.pl/api/isap/#/default/getDeedByParams](http://isap.sejm.gov.pl/api/isap/#/default/getDeedByParams)
 * [Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 * [Google crawler](https://support.google.com/webmasters/answer/182072)
 * Legal acts analysis examples
